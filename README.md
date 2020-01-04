@@ -8,3 +8,5 @@
 index.js為主程式；
 views資料夾含各頁面ejs檔；
 db.json為文章資料庫
+
+需要先install express, ejs, express-session body-parser, mongodb, mongoose
